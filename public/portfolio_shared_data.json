@@ -5,16 +5,11 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mramirez92",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "monica-r.jpg"
     },
     "skills": {
       "icons": [
