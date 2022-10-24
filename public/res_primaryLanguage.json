@@ -18,7 +18,7 @@
           "images/portfolio/oddduck/odd-duck-screenshot.png",
           "images/portfolio/oddduck/odd-duck-ss2.png"
         ],
-        "url": "",
+        "url": "https://mramirez92.github.io/odd-duck/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -42,7 +42,7 @@
           "images/portfolio/pokeball/poke-ball-ss.png",
           "images/portfolio/pokeball/poke-ball-ss2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://201group-a.github.io/rock-paper-poke/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -67,7 +67,7 @@
           "images/portfolio/hornedbeast/hornedbeasts-ss.png",
           "images/portfolio/hornedbeast/hb-ss-2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://admirable-dodol-4386d7.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
